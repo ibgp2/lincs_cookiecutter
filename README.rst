@@ -24,7 +24,6 @@ lincs_cookiecutter
 
 This is a toy test to try cookiecutter2 during LINCS tutorial
 
-
 * Free software: GNU General Public License v3
 * Documentation: https://ibgp2.github.io/lincs_cookiecutter/.
 
