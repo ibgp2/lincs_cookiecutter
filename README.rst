@@ -7,17 +7,17 @@ lincs_cookiecutter
         :target: https://pypi.python.org/pypi/lincs_cookiecutter
         :alt: PyPI Status
 
-.. image:: https://github.com/ibgp2/lincs_cookiecutter/workflows/build/badge.svg?branch=main
+.. image:: https://github.com/ibgp2/lincs_cookiecutter/workflows/build/badge.svg?branch=master
         :target: https://github.com/ibgp2/lincs_cookiecutter/actions?query=workflow%3Abuild
         :alt: Build Status
 
-.. image:: https://github.com/ibgp2/lincs_cookiecutter/workflows/docs/badge.svg?branch=main
+.. image:: https://github.com/ibgp2/lincs_cookiecutter/workflows/docs/badge.svg?branch=master
         :target: https://github.com/ibgp2/lincs_cookiecutter/actions?query=workflow%3Adocs
         :alt: Documentation Status
 
 
-.. image:: https://codecov.io/gh/ibgp2/lincs_cookiecutter/branch/main/graphs/badge.svg
-        :target: https://codecov.io/gh/ibgp2/lincs_cookiecutter/tree/main
+.. image:: https://codecov.io/gh/ibgp2/lincs_cookiecutter/branch/master/graphs/badge.svg
+        :target: https://codecov.io/gh/ibgp2/lincs_cookiecutter/tree/master
         :alt: Code Coverage
 
 
